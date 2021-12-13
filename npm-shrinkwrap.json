@@ -29,6 +29,7 @@
         "genieacs-ext.ts": "bin/genieacs-ext.ts",
         "genieacs-fs.ts": "bin/genieacs-fs.ts",
         "genieacs-nbi.ts": "bin/genieacs-nbi.ts",
+        "genieacs-xmpp.ts": "bin/genieacs-xmpp.ts",
         "genieacs-ui.ts": "bin/genieacs-ui.ts"
       },
       "devDependencies": {
